@@ -1,10 +1,10 @@
 # FreshBuy POS
 
-The Flutter app lives in `fieldnote_pos/`.
+The Flutter app lives in `main.dart`.
 
 ## Main Source
 
-Open [`fieldnote_pos/lib/main.dart`](fieldnote_pos/lib/main.dart) to edit the app. In VS Code, press `Ctrl+P` and enter `fieldnote_pos/lib/main.dart` to open it quickly.
+Open (main.dart) to vew the app. In VS Code, press `Ctrl+P` and enter `fieldnote_pos/lib/main.dart` to open it quickly.
 
 ## Run And Check
 
